@@ -4,13 +4,13 @@
 
  Quick breakdown:
 
-HTML: Utilizes flex layout for centered content, a clean container, and an input field with a circular search button.
+HTML: Sets up the page, centering things and making a cool input box with a circular search button.
 
-CSS: Defines a golden background, stylish input, and button with transitions. The footer sits at the bottom.
+CSS: Adds style, like a warm background, smooth input, and a snazzy button. The footer hangs out at the bottom.
 
-JavaScript: Enhances form interaction, enabling smooth expansion of the input field on button click.
+JavaScript: Makes the search bar interactive, so it grows when you click the button.
 
-Enjoy a polished and user-friendly search experience! 🚀
+Search in style! 🌟
 
 
 
